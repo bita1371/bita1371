@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bita1371
-- 👀 I’m interested in datascience-ML-data analytics
-- 🌱 I’m currently learning python-data analytics
-- 💞️ I’m looking to collaborate on data sciennce and Ml projects in marketing 
+- 👀 I’m interested in data science-ML-data analytics
+- 🌱 I’m working as a freelancer data scientist 
+- 💞️ I’m looking to collaborate on data science and Ml projects in marketing - Customer behavior -Text analysis - Time series Analysis 
 - 📫 How to reach me bitaazari71@gmail.com
 
 <!---
